@@ -2,7 +2,7 @@
     <h1>
         Hello world!👋
     </h1>
-    <h3>I am CachyOS user</h3>
+    <h3>I am Arch Linux user</h3>
 </div>
 <div id="socials" align="center">
     <h3>
